@@ -328,7 +328,6 @@ def rcrack1(uid,pwx,tl):
             'accept-language': 'en-US,en;q=0.9',
             'cache-control': 'max-age=0',
             'sec-ch-ua': '"Not:A-Brand";v="99", "Chromium";v="112"',
-            'locale=en_US; wl_cbv=v2%3Bclient_version%3A2291%3Btimestamp%3A1689746393; vpd=v1%3B706x437x2.4750001430511475; datr=Xzq5ZJb3HeQ_vhEt8Qi6bD7t; sb=Xzq5ZN0_9uowC1mDaeK216ra; m_pixel_ratio=2.4750001430511475; wd=437x1218; fr=0Zakm9Q07wKyto0In..BkuTpf.RD.AAA.0.0.BkuTpi.AWUjSg9U2hE',
             'sec-ch-prefers-color-scheme': 'light',
             'sec-ch-ua-mobile': '?1',
             'sec-ch-ua-platform': '"Android"',
@@ -537,7 +536,6 @@ def rcrack1(uid,pwx,tl):
             'accept-language': 'en-US,en;q=0.9',
             'cache-control': 'max-age=0',
             'sec-ch-ua': '"Not:A-Brand";v="99", "Chromium";v="112"',
-            'locale=en_US; wl_cbv=v2%3Bclient_version%3A2291%3Btimestamp%3A1689746393; vpd=v1%3B706x437x2.4750001430511475; datr=Xzq5ZJb3HeQ_vhEt8Qi6bD7t; sb=Xzq5ZN0_9uowC1mDaeK216ra; m_pixel_ratio=2.4750001430511475; wd=437x1218; fr=0Zakm9Q07wKyto0In..BkuTpf.RD.AAA.0.0.BkuTpi.AWUjSg9U2hE',
             'sec-ch-prefers-color-scheme': 'light',
             "Not:A-Brand";v="99.0.0.0", "Chromium";v="112.0.5615.137"
             'sec-ch-ua-mobile': '?1',
